@@ -4,7 +4,7 @@
 
 I've started my path to professional frontend development in early 2021. I continue to master current web technologies and help others with that: I'm a member of the Geekbrains mentor program for courses in JavaScript, React, Webpack, Scrum.
 
-Skills: HTML / CSS / SASS / Bootstrap / JavaScript / TypeScript / React / Redux / React MUI / Vue / Vuex / Vuetify / Node JS / Webpack / GIT / Linux / Docker / SCRUM / Project Management / English (C1)
+Skills: HTML / CSS / SASS / Bootstrap / JavaScript / TypeScript / React / Redux / React MUI / Node JS / Webpack / GIT / Linux / Docker / SCRUM / English (C1)
 
 - 📫 How to reach me: v.shurkalina@gmail.com 
 
