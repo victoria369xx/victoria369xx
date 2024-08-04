@@ -4,20 +4,20 @@
 I've started my path to professional frontend development in early 2021. I continue to master current web technologies and help others with that.
 
 Frontend Skills: 
-HTML, CSS, SASS, Bootstrap
-JavaScript,TypeScript
-React, Redux, React MUI 
-Vue, Vuex
+HTML, CSS, SASS, Bootstrap,
+JavaScript,TypeScript,
+React, Redux, React MUI, 
+Vue, Vuex.
 
 Backend Skills:
-C, Python, SQL
-Node JS, Flask
+C, Python, SQL,
+Node JS, Flask.
 
 General:
-Webpack, Docker (creating images, running containers) 
-GIT 
-Linux cmd
-English B2
+Webpack, Docker (creating images, running containers),
+GIT, 
+Linux cmd,
+English B2.
 
 - 📫 How to reach me: v.shurkalina@gmail.com 
 
