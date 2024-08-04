@@ -1,10 +1,23 @@
 ### Hi there 👋, I'm **Victoria Shurkalina**
 #### Frontend developer from Samara, Russia
-![Frontend developer from Samara, Russia](https://st2.myideasoft.com/idea/ct/82/myassets/blogs/fron-end-developer-becerileri.jpg?revision=1581875001)
 
-I've started my path to professional frontend development in early 2021. I continue to master current web technologies and help others with that: I'm a member of the Geekbrains mentor program for courses in JavaScript, React, Webpack, Scrum.
+I've started my path to professional frontend development in early 2021. I continue to master current web technologies and help others with that.
 
-Skills: HTML / CSS / SASS / Bootstrap / JavaScript / TypeScript / React / Redux / React MUI / Node JS / Webpack / GIT / Linux / Docker / SCRUM/ English (C1)
+Frontend Skills: 
+HTML, CSS, SASS, Bootstrap
+JavaScript,TypeScript
+React, Redux, React MUI 
+Vue, Vuex
+
+Backend Skills:
+C, Python, SQL
+Node JS, Flask
+
+General:
+Webpack, Docker (creating images, running containers) 
+GIT 
+Linux cmd
+English B2
 
 - 📫 How to reach me: v.shurkalina@gmail.com 
 
